@@ -36,6 +36,7 @@ Verás el mensaje "Proyecto Funcionando" y el contador de visitas incrementándo
 
 El repositorio tiene la siguiente organización:
 
+```text
 /proyecto_web_compose
 ├── Caddyfile            # Configuración del servidor web Caddy
 ├── docker-compose.yml   # Orquestación de contenedores
@@ -46,6 +47,7 @@ El repositorio tiene la siguiente organización:
 │   ├── docs/            # Documentación generada (HTML)
 │   └── index.php        # Código fuente principal
 └── README.md            # Instrucciones del proyecto
+```
 
 ## Configuración y credenciales
 
