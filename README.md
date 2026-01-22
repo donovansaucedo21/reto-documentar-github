@@ -22,6 +22,18 @@ Antes de instalar el proyecto, asegúrate de tener:
 	```bash
 	git clone [https://github.com/donovansaucedo21/reto-documentar-github.git](https://github.com/donovansaucedo21/reto-documentar-github.git)
 	```
+ 
+ 2. **Levantar el entorno**:
+   Ejecuta el siguiente comando para descargar las imágenes, crear la red y levantar los contenedores en segundo plano:
+   ```bash
+   docker compose up -d --build
+   ```
+   
+   3. **Verificar estado**:
+   Asegúrate de que los contenedores están corriendo:
+   ```bash
+   docker compose ps
+   ```
 
 ## Uso
 
