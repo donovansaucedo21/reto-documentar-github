@@ -20,7 +20,7 @@ Antes de instalar el proyecto, asegúrate de tener:
 
 1. **Clonar el repositorio**:
 	```bash
-	git clone []
+	git clone [https://github.com/donovansaucedo21/reto-documentar-github.git](https://github.com/donovansaucedo21/reto-documentar-github.git)
 	```
 
 ## Uso
