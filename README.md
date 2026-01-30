@@ -127,6 +127,3 @@ try {
 
 - **Donovan Saucedo Villarroel**
 - Asignatura: Despliegue de Aplicaciones Web
-
-## ERROR
-Este texto es un error y no debería estar en el proyecto.
