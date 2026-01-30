@@ -1,3 +1,7 @@
+## Colaboración
+Cambio realizado por Jorge Abellán Solis en la rama dev-jorgeAbellan.
+
+
 # Proyecto Contador de Visitas PHP
 
 Este proyecto implementa una API para contar las visitas a una página web utilizando un servidor MySQL y Docker Compose.
@@ -125,4 +129,4 @@ try {
 - Asignatura: Despliegue de Aplicaciones Web
 
 ## Prueba de conflicto
-Este texto será modificado para generar conflicto.
+Texto final consensuado tras resolver conflicto.
